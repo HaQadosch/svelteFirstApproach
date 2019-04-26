@@ -1,0 +1,26 @@
+{
+  "name": "sveltefirstapproach",
+  "version": "1.0.0",
+  "description": "Tut from the svelte.de site",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaQadosch/svelteFirstApproach.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaQadosch/svelteFirstApproach/issues"
+  },
+  "homepage": "https://github.com/HaQadosch/svelteFirstApproach#readme",
+  "devDependencies": {
+    "rollup": "^1.10.1",
+    "rollup-plugin-svelte": "^5.0.3",
+    "svelte": "^3.1.0"
+  }
+}
